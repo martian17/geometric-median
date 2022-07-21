@@ -1,0 +1,6 @@
+[submodule "htmlgen"]
+	path = htmlgen
+	url = git@github.com:martian17/htmlgen.git
+[submodule "PRNGJS"]
+	path = PRNGJS
+	url = git@github.com:martian17/PRNGJS.git
